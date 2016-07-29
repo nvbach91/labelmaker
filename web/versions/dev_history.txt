@@ -1,0 +1,39 @@
+<Project Development History>
+
+xnvb 01.9.2014 [BUG b001] Amount Input accepts ".1", "1."
+xnvb 01.9.2014 [FIX] Fixed bug b001
+xnvb 02.9.2014 [FIX] Plain Text Mode now accepts units and currency ignoring case
+xnvb 02.9.2014 [FIX] Added facebook like and share
+xnvb 02.9.2014 [FIX] Added private global visit count
+xnvb 03.9.2014 [BUG b002] Visit count not working as intended - must save to local file/db
+xnvb 03.9.2014 [BUG b003] form not accepting UTF-8 char set
+xnvb 03.9.2014 [FIX] Fixed bug 003
+xnvb 03.9.2014 [FIX] Changed HTTP method from GET to POST
+xnvb 03.9.2014 [FIX] Changed name from EtiquetteMaker to LabelMaker
+xnvb 03.9.2014 [FIX] Changed radiobutton styles
+xnvb 03.9.2014 [FIX] added app instance counter
+xnvb 03.9.2014 [FIX] allowed text mode
+xnvb 03.9.2014 [FIX] Added UploadBox and upload functionality
+xnvb 03.9.2014 [BUG b003] download file newline loss in notepad
+xnvb 04.9.2014 [FIX] Fixed download file where notepad couldn't read newlines
+xnvb 04.9.2014 [FIX] Changed height and opacity animations
+xnvb 04.9.2014 [FIX] Removed app instance counter
+xnvb 04.9.2014 [FIX] Added utility to detect clients' ip addresses and visit time
+xnvb 04.9.2014 [FIX] Added multi-lingal alert when switching to plain text mode
+xnvb 04.9.2014 [FIX] Changed price maxlength to 6 -> max 9999.99
+xnvb 04.9.2014 [FIX] Added client connect time
+xnvb 05.9.2014 [FIX] 
+xnvb 06.9.2014 [FIX] Added styler chooser
+xnvb 06.9.2014 [FIX] Added slideout widget for style chooser 
+xnvb 07.9.2014 [FIX] 
+xnvb 08.9.2014 [FIX] Added javascript client-side check for invalid plain text inputs and upload
+xnvb 08.9.2014 [FIX] Added leaving confirm so user won't accidentally loose data
+xnvb 09.9.2014 [FIX] Added style 6
+xnvb 09.9.2014 [BUG b004] 6 items, prints 5
+xnvb 10.9.2014 [FIX] Fixed js error alert textmode
+xnvb 11.9.2014 [FIX] Fixed no-cache header
+xnvb 13.9.2014 [FIX] Fixed FB, TW link click
+xnvb 13.9.2014 [FIX] Added size 5x6 5x7
+xnvb 14.9.2014 [FIX] Added "Kc" above small price number
+xnvb 15.9.2014 [FIX] Added eurostyle... by adding price to the end...
+
